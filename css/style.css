@@ -193,14 +193,14 @@ h1 {
   padding-top: 15px;
 }
 
-.card .card-link {
+.card .card-link, .link-curriculo {
   color: #53bc28;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s;
 }
 
-.card .card-link:hover {
+.card .card-link:hover, .link-curriculo:hover {
   color: #83f36e;
 }
 
